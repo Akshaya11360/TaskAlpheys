@@ -1,0 +1,6 @@
+2025-05-15,Income,Salary,1500.00,Monthly salary
+2025-05-16,Expense,Food,50.00,Groceries
+2025-05-17,Expense,Rent,800.00,Monthly rent
+2025-05-18,Income,Business,200.00,Freelance work
+2025-05-19,Expense,Travel,30.00,Bus fare
+2024-05-16,Income,Salary,20000.00,Job
