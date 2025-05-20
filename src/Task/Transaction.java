@@ -4,8 +4,8 @@ import java.time.LocalDate;
 
 public class Transaction {
 	private LocalDate date;
-    private String type; // Income or Expense
-    private String category; // Salary, Business, Food, Rent, Travel
+    private String type; 
+    private String category; 
     private double amount;
     private String description;
 
@@ -17,7 +17,7 @@ public class Transaction {
         this.description = description;
     }
 
-    // Getters
+  
     public LocalDate getDate() {
         return date;
     }

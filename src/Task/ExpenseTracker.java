@@ -22,7 +22,7 @@ public class ExpenseTracker {
         int typeChoice;
         try {
             typeChoice = scanner.nextInt();
-            scanner.nextLine(); // consume newline
+            scanner.nextLine(); 
         } catch (InputMismatchException e) {
             System.out.println("Invalid input. Please enter 1 or 2.");
             scanner.nextLine();
@@ -50,7 +50,7 @@ public class ExpenseTracker {
         int categoryChoice;
         try {
             categoryChoice = scanner.nextInt();
-            scanner.nextLine(); // consume newline
+            scanner.nextLine(); 
         } catch (InputMismatchException e) {
             System.out.println("Invalid input. Please enter a number.");
             scanner.nextLine();
@@ -68,7 +68,7 @@ public class ExpenseTracker {
         double amount;
         try {
             amount = scanner.nextDouble();
-            scanner.nextLine(); // consume newline
+            scanner.nextLine(); 
         } catch (InputMismatchException e) {
             System.out.println("Invalid amount. Please enter a number.");
             scanner.nextLine();
@@ -182,7 +182,7 @@ public class ExpenseTracker {
             int choice;
             try {
                 choice = scanner.nextInt();
-                scanner.nextLine(); // Consume newline
+                scanner.nextLine();
             } catch (InputMismatchException e) {
                 System.out.println("Invalid input. Please enter 1, 2, or 3.");
                 scanner.nextLine();
