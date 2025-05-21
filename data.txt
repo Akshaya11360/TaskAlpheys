@@ -4,3 +4,6 @@
 2025-05-18,Income,Business,200.00,Freelance work
 2025-05-19,Expense,Travel,30.00,Bus fare
 2024-05-16,Income,Salary,20000.00,Job
+2025-05-21,Income,Business,20000.00,rent
+2025-05-19,Expense,Food,500.00,Lunch
+2025-05-20,Expense,Food,500.00,lunch
